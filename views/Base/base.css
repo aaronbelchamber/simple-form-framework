@@ -1,0 +1,19 @@
+.firstHeading{text-align:center}
+#content{margin:25px auto}
+.form-container{max-width:750px;margin:10px auto;padding-bottom:25px}
+.form-container .form-row{margin-top:15px}
+.form-container .form-elem{margin-top:15px}
+.form-container label{width:20%;min-width:150px}
+.form-container textarea{width:65%;min-width:250px}
+
+.form-elem,.form-elem label{vertical-align:top}
+.form-container label,.html-editor-container{float:left}
+.form-group{border-top:2px solid #999;border-bottom:2px solid #999;margin:15px auto!important;min-width:15px;width:96%;
+            padding:5px 2%;clear:both}
+.preFieldSymbol{width:auto;min-width:15px;float:left;margin-left:-15px}
+
+.widget,.plusIcon{width:98%;height:auto;min-height:25px;cursor:pointer;padding:3px 1%;color:white;font-weight:bold}
+.widget{background-color:orange}
+.plusIcon{background-color:green}
+
+.loadHidden{display:none}

@@ -1,0 +1,1 @@
+Test output for AJAX Widget calls
